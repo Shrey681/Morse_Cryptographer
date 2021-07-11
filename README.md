@@ -28,7 +28,7 @@ Morse to Text involves conversion of morse into text, simply by typing in the mo
 
 Description about Python Packages used:
 PyQt - PyQt is a python binding of the open-source widget-toolkit Qt, which also functions as a cross-platform application development framework. Qt is a popular framework for writing GUI applications for all major desktop, mobile, and embedded platforms (supports Linux, Windows, MacOS, Android, iOS, Raspberry Pi, and more).
-QtCore - Core non-GUI classes used by other modules
+QtCore - Core non-GUI classes used by other modules<br>
 QtGui - Graphical user interface components
 QtWidgets - Classes for creating classic desktop-style UIs.
 QLabel - A QLabel object acts as a placeholder to display non-editable text or image, or a movie of animated GIF. It can also be used as a mnemonic key for other widgets.
