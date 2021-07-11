@@ -1,16 +1,16 @@
 # Morse_Cryptographer
 
-Team Members:
+Team Members:<br>
 Shruti Jain<br>
 Nimit Jhunjhunwala<br>
 Shrey Kadam<br>
 
-Features:
+Features:<br>
 Encoding Text to Morse Code<br>
 Decoding Morse Code to Text<br>
 Encoding Audio Text to Morse Code<br>
 
-Softwares:
+Softwares:<br>
 Python<br>
 GUI - PyQT5<br>
 Audio -<br>
